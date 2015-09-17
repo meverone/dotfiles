@@ -1,0 +1,19 @@
+[user]
+    email = meverone@gmail.com
+    name = meverone
+[push]
+    default = matching
+[alias]
+    d = diff
+    dn = diff --name-only
+    co = checkout
+    b = branch
+    ci = commit
+    st = status
+[color]
+    diff = auto
+    branch = auto
+    status = auto
+    ui = auto
+[core]
+    editor = vim
